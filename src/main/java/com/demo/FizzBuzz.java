@@ -22,6 +22,6 @@ public class FizzBuzz
         	  result += (String) processNumber(numList[i]) + ", ";
         	}
         	return result + (String) processNumber(numList[length-1]);
-		}
+	}
 
 }
